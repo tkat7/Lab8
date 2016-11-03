@@ -1,0 +1,6 @@
+c:\users\tkat\documents\visual studio 2015\Projects\lab8\lab8\bin\Debug\lab8.exe.config
+c:\users\tkat\documents\visual studio 2015\Projects\lab8\lab8\bin\Debug\lab8.exe
+c:\users\tkat\documents\visual studio 2015\Projects\lab8\lab8\bin\Debug\lab8.pdb
+c:\users\tkat\documents\visual studio 2015\Projects\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+c:\users\tkat\documents\visual studio 2015\Projects\lab8\lab8\obj\Debug\lab8.exe
+c:\users\tkat\documents\visual studio 2015\Projects\lab8\lab8\obj\Debug\lab8.pdb
